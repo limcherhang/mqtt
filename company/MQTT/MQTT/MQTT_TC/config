@@ -1,0 +1,7 @@
+broker=192.168.91.34
+port=1883
+user=iotmqtt
+passwd=ECTW4iot
+clientid=SG41
+#logLevel=DEBUG
+logLevel=WARNING
