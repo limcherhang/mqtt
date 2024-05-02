@@ -1,0 +1,5 @@
+Insert into output.txt: 16:23:01.749349
+Insert into output.txt: 16:24:01.825272
+Insert into output.txt: 16:26:01.590753
+Insert into output.txt: 16:27:01.721791
+Insert into output.txt: 16:28:01.823230
